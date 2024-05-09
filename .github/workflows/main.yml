@@ -1,7 +1,7 @@
 on:
   push:
     branches: -main
-name: 🚀 Deploy website on push
+name: 🚀 Deploy site on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
@@ -15,5 +15,5 @@ jobs:
         with:
           server: ftp.pdinformatica.com.br
           username: luiz@pdinformatica.com.br
-          password: XUd@JL}2PZ55
+          password: XUd@JL2PZ55
           server-dir: apps_pd/deploy/
