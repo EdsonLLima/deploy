@@ -17,4 +17,4 @@ jobs:
           server: ftp.pdinformatica.com.br
           username: luiz@pdinformatica.com.br
           password: XUd@JL2PZ55
-          server-dir: apps_pd/deploy/
+          server-dir: deploy/
